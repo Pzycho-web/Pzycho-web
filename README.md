@@ -1,4 +1,4 @@
-- Hey, I'm Pzycho. Nice to meet you. I'm a novice programmer with an interest in Cyber Security. Starting a degree in Computer Science. I'm passionate about music, film, and a great many other things.
+- Hey, I'm Pzycho. Nice to meet you. I'm a novice programmer with an interest in Cyber Security. Starting a degree in Information Technology. I'm passionate about music, film, and a great many other things.
 - I look forward to meeting new people here. :)
 
 <!---
